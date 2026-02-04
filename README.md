@@ -58,7 +58,8 @@ Contains OOP concepts, array programs, file handling, etc.
 ---
 
 ## 🏆 Certifications
-- HackerRank Java (Basic) Certification  
+- HackerRank Java (Basic) Certification
+- Full Stack java Certification by(symboisys)
 - More certifications coming soon…
 
 ---

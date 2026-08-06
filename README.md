@@ -1,226 +1,192 @@
-👋 Hi, I'm Aniket Jadhav..
+<div align="center">
 
-🎓 MCA Student at Bharati Vidyapeeth, Pune  
-💻 Aspiring Full Stack Developer  
-🚀 Passionate about building real-world applications using Java, PHP, MERN, and Spring Boot.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Aniket%20Jadhav&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20MERN&descAlignY=55&descSize=18" width="100%"/>
 
----
+</div>
 
-## 🔥 About Me
-- 🌱 Currently learning **Spring Boot**, **MERN Stack**, and **Advanced Java**  
-- 💡 Love building projects that solve real problems  
-- 🧠 Strong foundation in **Java, PHP, C, C++, .NET Basics**  
-- ⚡ Interested in Web Development & Backend Development  
-- 🎯 Goal: Become a Full Stack Developer (Java + MERN)
+<h3 align="center">🚀 Building scalable web applications with Java, Spring Boot & the MERN Stack</h3>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Aniketjadhav92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<br>
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at Bharati Vidyapeeth (IMED), Pune
+- 💼 Full-Stack Developer with experience in **Java, Spring Boot, React.js, Next.js, Node.js & MongoDB**
+- 🤖 Passionate about building **AI-integrated** web applications
+- 🌱 Currently deepening skills in **Microservices, Advanced Java & Cloud fundamentals**
+- 🎯 Actively seeking **Full-Stack / Java / React Developer** roles
+- 📍 Based in Pune, India — open to on-site & hybrid opportunities
+- 💬 Ask me about **Java, Spring Boot, React, Next.js, MongoDB, REST APIs**
+
+<br>
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-- HTML • CSS • JavaScript  
-- React.js  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,git,postman,tailwind,html,css" />
+</p>
 
-### 🔗 Backend
-- Java (Core + OOP + JDBC + Spring Boot)  
-- PHP  
-- Node.js (MERN learning path)
+<br>
 
-### 🗄️ Databases
-- MySQL  
-- Firebase  
+## 📊 GitHub Stats
 
-### 💻 Programming Languages
-- Java  
-- C  
-- C++  
-- PHP  
-- .NET Basics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketjadhav92&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-## 📂 Featured Projects
+<br>
 
-### 🔹 **Chat Application (React + Firebase)**
-Real-time chat app with authentication, messages, and Firebase integration.
+## 📈 Contribution Graph
 
-### 🔹 **Insurance Management System (PHP + MySQL)**
-Handles policies, claims, user management, and admin dashboard.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketjadhav92&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
-### 🔹 **Vehicle Insurance PDF Generator (PHP)**
-Generates receipts and PDFs after form submission and payment.
+<br>
 
-### 🔹 **Java Mini Projects**
-Contains OOP concepts, array programs, file handling, etc.
+## 🚀 Featured Projects
 
-> 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+<h3>🎓 InternHub</h3>
+<b>AI-Powered Internship Management System</b>
+
+<p>
+<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/type-full--stack-blue?style=flat-square"/>
+</p>
+
+Role-based dashboards for admins & interns featuring an AI chatbot, automated task management, attendance tracking, live reporting, and in-browser video conferencing.
+
+**Highlights**
+- 🔐 JWT-based role authentication (Admin / Intern)
+- 🤖 AI Assistant & AI content generation via Google Gemini
+- 🎥 Real-time video meetings with Jitsi Meet API
+- 📊 Analytics dashboard with attendance & performance reports
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🐙 DevHub</h3>
+<b>GitHub-Inspired Collaboration Platform</b>
+
+<p>
+<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/type-full--stack-blue?style=flat-square"/>
+</p>
+
+A GitHub-inspired platform for repository and profile management, built to replicate core collaboration workflows with a clean, responsive interface.
+
+**Highlights**
+- 📁 Full repository management with CRUD operations
+- 🔐 Secure JWT authentication & protected routes
+- 👤 User profile management & file handling
+- 📱 Fully responsive across devices
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Full Stack Developer Trainee**
+*LoyaNox Development*
+
+Built full-stack applications using Next.js, React.js, Node.js & MongoDB; implemented JWT authentication and AI integration in real-world projects. Strengthened skills in database management, responsive UI, testing, and debugging.
+
+</td>
+<td width="50%" valign="top">
+
+**Java Full Stack Intern**
+*Zidio Development*
+
+Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; built RESTful APIs while collaborating in Agile teams using Git.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🏆 Certifications
-- HackerRank Java (Basic) Certification
-- Full Stack java Certification by(symboisys)
-- More certifications coming soon…
 
----
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Full_Stack_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br><br>
+<b>Full Stack Java Development</b><br>
+<sub>Symbiosis & Capgemini</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-AI_%26_Employability-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><br><br>
+<b>AI and Employability Skills</b><br>
+<sub>Magic Bus · Supported by Infosys Foundation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br><br>
+<b>Java (Basic)</b><br>
+<sub>HackerRank</sub>
+</td>
+</tr>
+</table>
 
+<br>
 
-## 🤝 Connect With Me
-- 🔗 LinkedIn: *
+## 📫 Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Aniketjadhav92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="tel:9325701182"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
-Aniket Jadhav
-Add verification badge
+<p align="center"><i>🎯 Open to Full-Stack, Java, and React Developer roles — Pune (On-site / Hybrid)</i></p>
 
-MCA Student at Bharati Vidyapeeth IMED, Pune. | Full Stack Developer | Java | C++ | PHP | .NET | MERN & Spring Boot
-
-Pune District, Maharashtra, India
-
-·
-
-Contact info
-
-
-Bharati Vidyapeeth
-
-226 connections
-
-
-Open to
-Add section
-
-Enhance profile
-
-Resources
-Open to work · Everyone on LinkedIn
-
-Pune District | On-site · Hybrid
-
-Show details
-
-
-Activity
-232 followers
-
-Create a post
-
-Posts
-
-Comments
-
-Videos
-View Aniket Jadhav’s profile, open to work
-Aniket Jadhav
-
- • You
-
-MCA Student at Bharati Vidyapeeth IMED, Pune. | Full Stack Developer | Java | C++ | PHP | .NET | MERN & Spring Boot
-
-1d • 
-
-
-🚀 Excited to Share My Latest Full-Stack Project – InternHub | AI-Powered Internship Management System
-I'm thrilled to share a project I've been working on over the past few weeks: InternHub, an AI-powered Internship Management System designed to simplify internship management for both administrators and interns.
-🎥 Project Demo Below
-✨ Features
-🔐 Secure JWT Authentication (Admin & Intern)
-👨‍💼 Admin Dashboard
-Manage Interns
-Assign Tasks
-Track Attendance
-Generate Reports
-Send Announcements
-Notifications
-👨‍🎓 Intern Dashboard
-View Assigned Tasks
-Mark Task Progress
-Attendance Records
-Profile Management
-🤖 AI Integration
-AI Assistant powered by Google Gemini
-AI Task Generator
-AI Announcement Generator
-💬 Communication
-Real-time Chat
-Browser-based Video Conferencing (Jitsi Meet)
-📊 Analytics & Reports
-Dashboard Statistics
-Attendance Reports
-Performance Tracking
-🛠 Tech Stack
-Next.js
-React.js
-Tailwind CSS
-Shadcn UI
-MongoDB
-Mongoose
-JWT Authentication
-Google Gemini AI
-Jitsi Meet API
-JavaScript (ES6+)
-This project significantly strengthened my skills in:
-✅ Full-Stack Development
-✅ REST API Development
-✅ Authentication & Authorization
-✅ AI Integration
-✅ Database Design
-✅ Responsive UI Development
-✅ Real-time Features
-Every feature—from authentication to AI and video conferencing—was built by me as part of my learning journey.
-I'd love to hear your feedback and suggestions. Thank you for watching! 🚀
-#OpenToWork #FullStackDeveloper #NextJS #ReactJS #MongoDB #TailwindCSS #ArtificialIntelligence #GeminiAI #WebDevelopment #JavaScript #SoftwareDeveloper #LearningInPublic #TechProjects #AI #Portfolio
-GITHUB : https://lnkd.in/dQaBvC2r
-LIVE : https://lnkd.in/dtE8gkbQ
-… more
-
-
-
-
-7
-
-
-408 impressions
-
-View analyticsView analytics
-
-View Aniket Jadhav’s profile, open to work
-Aniket Jadhav
-
- • You
-
-MCA Student at Bharati Vidyapeeth IMED, Pune. | Full Stack Developer | Java | C++ | PHP | .NET | MERN & Spring Boot
-
-7mo • 
-
-
-Hi everyone! I’m seeking a new role and would appreciate your support. If you hear of any opportunities or just want to catch up, please send me a message or comment below. I’d love to reconnect. #OpenToWork
-
-About me & what I’m looking for:
-💼 I’m looking for Web Developer, React Developer, Java Developer, and Java Web Developer roles.
-… more
-
-View Aniket Jadhav’s profile
-Aniket is open to work
-
-Looking for On-site or Hybrid roles in Pune District
-
-View job preferences
-
-1
-
-
-192 impressions
-
-View analyticsView analytics
-
-Show all posts
-Profile language
-English
-
-Public profile & URL
-www.linkedin.com/in/aniket-jadhav92*  
-- 📧 Email: *aj6144089@gmail.com*
-
----
-
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>

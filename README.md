@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Aniketjadhav92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://aniketjadhav92.github.io/Aniket--portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <br>
@@ -154,24 +154,30 @@ Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; b
 
 <br>
 
+
 ## 🏆 Certifications
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Full_Stack_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br><br>
 <b>Full Stack Java Development</b><br>
 <sub>Symbiosis & Capgemini</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/-AI_%26_Employability-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><br><br>
 <b>AI and Employability Skills</b><br>
 <sub>Magic Bus · Supported by Infosys Foundation</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br><br>
 <b>Java (Basic)</b><br>
 <sub>HackerRank</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-Cloud_Computing-0073BB?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
+<b>Introduction to Cloud Computing</b><br>
+<sub>Simplilearn SkillUp</sub>
 </td>
 </tr>
 </table>

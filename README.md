@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">🚀 Building scalable web applications with Java, Spring Boot & the MERN Stack</h3>
+<h3 align="center" style="font-family: 'Inter', 'Segoe UI', -apple-system, Roboto, sans-serif; font-weight: 600;">🚀 Building scalable web applications with Java, Spring Boot & the MERN Stack</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,6 +14,8 @@
 </p>
 
 <br>
+
+<div style="font-family: 'Inter', 'Segoe UI', -apple-system, Roboto, sans-serif;">
 
 ## 👨‍💻 About Me
 
@@ -38,12 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketjadhav92&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <br>
@@ -58,11 +60,11 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" style="font-family: 'Inter', 'Segoe UI', sans-serif;">
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎓 InternHub</h3>
+<h3 style="font-family: 'Inter', sans-serif;">🎓 InternHub</h3>
 <b>AI-Powered Internship Management System</b>
 
 <p>
@@ -94,7 +96,7 @@ Role-based dashboards for admins & interns featuring an AI chatbot, automated ta
 </td>
 <td width="50%" valign="top">
 
-<h3>🐙 DevHub</h3>
+<h3 style="font-family: 'Inter', sans-serif;">🐙 DevHub</h3>
 <b>GitHub-Inspired Collaboration Platform</b>
 
 <p>
@@ -131,11 +133,11 @@ A GitHub-inspired platform for repository and profile management, built to repli
 
 ## 💼 Experience
 
-<table width="100%">
+<table width="100%" style="font-family: 'Inter', 'Segoe UI', sans-serif;">
 <tr>
 <td width="50%" valign="top">
 
-**Full Stack Developer Trainee**
+**Full Stack Developer Trainee**  
 *LoyaNox Development*
 
 Built full-stack applications using Next.js, React.js, Node.js & MongoDB; implemented JWT authentication and AI integration in real-world projects. Strengthened skills in database management, responsive UI, testing, and debugging.
@@ -143,7 +145,7 @@ Built full-stack applications using Next.js, React.js, Node.js & MongoDB; implem
 </td>
 <td width="50%" valign="top">
 
-**Java Full Stack Intern**
+**Java Full Stack Intern**  
 *Zidio Development*
 
 Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; built RESTful APIs while collaborating in Agile teams using Git.
@@ -154,29 +156,40 @@ Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; b
 
 <br>
 
-
 ## 🏆 Certifications
 
-<table width="100%">
+<table width="100%" style="font-family: 'Inter', 'Segoe UI', sans-serif;">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/-Full_Stack_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br><br>
 <b>Full Stack Java Development</b><br>
 <sub>Symbiosis & Capgemini</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/-AI_%26_Employability-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><br><br>
 <b>AI and Employability Skills</b><br>
-<sub>Magic Bus · Supported by Infosys Foundation</sub>
+<sub>Magic Bus · Infosys Foundation</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br><br>
 <b>Java (Basic)</b><br>
 <sub>HackerRank</sub>
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/-Cloud_Computing-0073BB?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
 <b>Introduction to Cloud Computing</b><br>
+<sub>Simplilearn SkillUp</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br><br>
+<b>Innovating with Google Cloud AI</b><br>
+<sub>Simplilearn · Google Cloud</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/><br><br>
+<b>Prompt Engineering</b><br>
 <sub>Simplilearn SkillUp</sub>
 </td>
 </tr>
@@ -193,6 +206,8 @@ Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; b
   <a href="tel:9325701182"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>🎯 Open to Full-Stack, Java, and React Developer roles — Pune (On-site / Hybrid)</i></p>
+<p align="center" style="font-family: 'Inter', sans-serif;"><i>🎯 Open to Full-Stack, Java, and React Developer roles — Pune (On-site / Hybrid)</i></p>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>

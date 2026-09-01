@@ -21,8 +21,8 @@
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Bharati Vidyapeeth (IMED), Pune
 - 💼 Full-Stack Developer with experience in **Java, Spring Boot, React.js, Next.js, Node.js & MongoDB**
-- 🤖 Passionate about building **AI-integrated** web applications
-- 🌱 Currently deepening skills in **Microservices, Advanced Java & Cloud fundamentals**
+- 🤖 Passionate about building **AI-integrated** web applications & automated systems
+- 🌱 Currently deepening skills in **Microservices, Cloud Architecture & DevOps**
 - 🎯 Actively seeking **Full-Stack / Java / React Developer** roles
 - 📍 Based in Pune, India — open to on-site & hybrid opportunities
 - 💬 Ask me about **Java, Spring Boot, React, Next.js, MongoDB, REST APIs**
@@ -37,94 +37,235 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 🚀 Featured & Key Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketjadhav92&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<br>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketjadhav92&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
-<br>
-
-## 🚀 Featured Projects
-
-<table width="100%" style="font-family: 'Inter', 'Segoe UI', sans-serif;">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 style="font-family: 'Inter', sans-serif;">🎓 InternHub</h3>
-<b>AI-Powered Internship Management System</b>
+### 🎓 InternHub
+**AI-Powered Internship Management System**
+- 🔐 Role-based auth (Admin / Intern) via JWT
+- 🤖 Google Gemini AI Chatbot & automated content generation
+- 🎥 Real-time video conferencing via Jitsi Meet API
+- 📊 Attendance tracking, task management & reporting
+`<br>`
+`Next.js` • `React` • `Node.js` • `MongoDB` • `Tailwind` • `Gemini AI`
 
-<p>
-<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/type-full--stack-blue?style=flat-square"/>
-</p>
-
-Role-based dashboards for admins & interns featuring an AI chatbot, automated task management, attendance tracking, live reporting, and in-browser video conferencing.
-
-**Highlights**
-- 🔐 JWT-based role authentication (Admin / Intern)
-- 🤖 AI Assistant & AI content generation via Google Gemini
-- 🎥 Real-time video meetings with Jitsi Meet API
-- 📊 Analytics dashboard with attendance & performance reports
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-</p>
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+[View Code](https://github.com/Aniketjadhav92/internship-management-system) • [Live Demo](https://internship-management-system-snowy.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-<h3 style="font-family: 'Inter', sans-serif;">🐙 DevHub</h3>
-<b>GitHub-Inspired Collaboration Platform</b>
+### 🐙 DevHub
+**GitHub Clone Platform**
+- 📁 Repository management with full CRUD operations
+- 🔒 Secure JWT authentication & protected routes
+- 👤 User profile handling & issue tracking workflows
+- 📱 Responsive developer dashboard
+`<br>`
+`React` • `Node.js` • `MongoDB` • `Express.js` • `Tailwind`
 
-<p>
-<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/type-full--stack-blue?style=flat-square"/>
-</p>
+[View Code](https://github.com/Aniketjadhav92/github-clone-frontend) • [Live Demo](https://devhub-github.netlify.app/login)
 
-A GitHub-inspired platform for repository and profile management, built to replicate core collaboration workflows with a clean, responsive interface.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Highlights**
-- 📁 Full repository management with CRUD operations
-- 🔐 Secure JWT authentication & protected routes
-- 👤 User profile management & file handling
-- 📱 Fully responsive across devices
+### 🚗 Insurance Management System
+**Vehicle & Policy Administration Platform**
+- 📄 Comprehensive management of vehicle and life policies
+- 💼 Client record tracking & automated claims processing
+- 🔐 Dual agent and client portal access control
+`<br>`
+`PHP` • `MySQL` • `JavaScript` • `HTML5` • `CSS3`
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
+[View Code](https://github.com/Aniketjadhav92)
 
-<p>
-<a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+</td>
+<td width="50%" valign="top">
 
+### 🚍 Parivahan Portal
+**Transport & Vehicle Management System**
+- 🚘 Vehicle registrations & permit applications portal
+- 💳 Driver record management & tax payment tracking
+- ⚡ High-performance backend built on Spring Boot
+`<br>`
+`Java` • `Spring Boot` • `React` • `MySQL` • `Tailwind`
+
+[View Code](https://github.com/Aniketjadhav92)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Restaurant Management
+**Ordering & Reservation System**
+- 📖 Digital menu interface with interactive filtering
+- 📅 Table reservation booking & order management
+- ⏱️ Real-time status tracking for customer orders
+`<br>`
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind`
+
+[View Code](https://github.com/Aniketjadhav92)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Online Exam Portal
+**Examination & Assessment Engine**
+- ⏱️ Timed online testing with randomized question banks
+- 📊 Automatic grading & instant performance analytics
+- 🛡️ Secure student session handling via JWT
+`<br>`
+`Java` • `Spring Boot` • `React` • `MySQL` • `JWT`
+
+[View Code](https://github.com/Aniketjadhav92)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform
+**Modern Retail Web Application**
+- 🛍️ Product catalog filtering & shopping cart state
+- 💳 Checkout integration & user authentication
+- 📈 Admin dashboard for inventory & order tracking
+`<br>`
+`Next.js` • `React` • `Node.js` • `MongoDB` • `Tailwind`
+
+[View Code](https://github.com/Aniketjadhav92)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 UI Components Library
+**Reusable React System**
+- 🧩 Accessible, themeable UI components
+- 🚀 Designed for rapid frontend development
+- ⚡ Custom styling powered by Shadcn & Tailwind
+`<br>`
+`React` • `Next.js` • `Shadcn UI` • `Tailwind CSS`
+
+[View Code](https://github.com/Aniketjadhav92)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Form Craft
+**AI-Powered Form Builder**
+- 🛠️ Drag-and-drop dynamic form creator
+- 📊 Real-time response analytics and validation
+- 🤖 Smart field suggestions & instant sharing
+`<br>`
+`React` • `Node.js` • `MongoDB` • `Tailwind CSS`
+
+[View Code](https://github.com/Aniketjadhav92)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Excel Analytics Tool
+**Spreadsheet Data Analysis Platform**
+- 📈 Processing, filtering & interpreting data files
+- 📊 Interactive graph generation & visual export
+- 🐍 Powered by Python data-science stack
+`<br>`
+`React` • `Python` • `Pandas` • `NumPy` • `Matplotlib`
+
+[View Code](https://github.com/Aniketjadhav92/excel-analytics-1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Civic-One
+**Civic Issue Reporting Platform**
+- 📢 Citizen portal to report municipal issues
+- 📍 Progress tracking & community fix updates
+- 👥 Transparent local administration communication
+`<br>`
+`React` • `Node.js` • `MongoDB` • `JavaScript`
+
+[View Code](https://github.com/Aniketjadhav92/Civic-one)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Chat Application
+**Real-Time Messaging Platform**
+- ⚡ Instant messaging with active typing indicators
+- 🔒 Secure authentication & group channels
+- 💾 Message history powered by Firebase
+`<br>`
+`React` • `Firebase` • `JavaScript` • `Tailwind CSS`
+
+[View Code](https://github.com/Aniketjadhav92/Chat-App)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 Certifications & Achievements
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br><br>
+<b>Innovating with Google Cloud AI</b><br>
+<sub>Simplilearn • ID: 10644692</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/><br><br>
+<b>Prompt Engineering with GitHub Copilot</b><br>
+<sub>Simplilearn • ID: 10644469</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Cloud_Computing-0073BB?style=for-the-badge&logo=googlecloud&logoColor=white"/><br><br>
+<b>Introduction to Cloud Computing</b><br>
+<sub>Simplilearn • ID: 10616306</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Cloud_%26_Models-339933?style=for-the-badge&logo=icloud&logoColor=white"/><br><br>
+<b>Cloud Computing & Model Dev</b><br>
+<sub>Swap Tech Infra • ID: 862221877</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Full_Stack_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br><br>
+<b>Full Stack Java Developer</b><br>
+<sub>Symbiosis & Capgemini</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br><br>
+<b>Java (Basic) Certificate</b><br>
+<sub>HackerRank • ID: 52FEED30DB53</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-AI_%26_Skills-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><br><br>
+<b>AI and Employability Skills</b><br>
+<sub>Magic Bus India (Infosys)</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-AWS_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
+<b>AWS Developer Associate</b><br>
+<sub><i>Target Completion Ongoing</i></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-System_Design-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/><br><br>
+<b>Advanced System Design</b><br>
+<sub><i>Target Completion Ongoing</i></sub>
 </td>
 </tr>
 </table>
@@ -133,7 +274,7 @@ A GitHub-inspired platform for repository and profile management, built to repli
 
 ## 💼 Experience
 
-<table width="100%" style="font-family: 'Inter', 'Segoe UI', sans-serif;">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -156,44 +297,16 @@ Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; b
 
 <br>
 
-## 🏆 Certifications
+## 📊 GitHub Analytics
 
-<table width="100%" style="font-family: 'Inter', 'Segoe UI', sans-serif;">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Full_Stack_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br><br>
-<b>Full Stack Java Development</b><br>
-<sub>Symbiosis & Capgemini</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-AI_%26_Employability-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><br><br>
-<b>AI and Employability Skills</b><br>
-<sub>Magic Bus · Infosys Foundation</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br><br>
-<b>Java (Basic)</b><br>
-<sub>HackerRank</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Cloud_Computing-0073BB?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
-<b>Introduction to Cloud Computing</b><br>
-<sub>Simplilearn SkillUp</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br><br>
-<b>Innovating with Google Cloud AI</b><br>
-<sub>Simplilearn · Google Cloud</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/><br><br>
-<b>Prompt Engineering</b><br>
-<sub>Simplilearn SkillUp</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketjadhav92&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 <br>
 
@@ -206,7 +319,7 @@ Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; b
   <a href="tel:9325701182"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<p align="center" style="font-family: 'Inter', sans-serif;"><i>🎯 Open to Full-Stack, Java, and React Developer roles — Pune (On-site / Hybrid)</i></p>
+<p align="center"><i>🎯 Open to Full-Stack, Java, and React Developer roles — Pune (On-site / Hybrid)</i></p>
 
 </div>
 

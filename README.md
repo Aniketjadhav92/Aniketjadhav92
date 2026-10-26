@@ -45,9 +45,9 @@ I’m pursuing a **Master of Computer Applications (MCA)** at **Bharati Vidyapee
 
 ---
 
-## Selected Projects
+## Project Gallery
 
-<p align="center"><sub>Image previews are illustrative concepts for the project cards, not screenshots of the live applications.</sub></p> <table>
+<p align="center"><sub>All twelve projects are represented with illustrative concept previews. Replace these images with actual application screenshots when available.</sub></p> <table>
 <tr>
 <td width="50%" valign="top">
 <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/dKIyjQfAJFKTWRXS.jpg" width="100%" alt="Concept preview of the InternHub internship management dashboard" />
@@ -96,24 +96,57 @@ A citizen-focused platform for reporting municipal issues and following progress
 <p><sub>React · Node.js · Express · MongoDB</sub></p>
 </td>
 </tr>
-</table> <details>
-<summary><strong>More projects</strong></summary>
+<tr>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/BTUqKEyfzxehnbHG.jpg" width="100%" alt="Concept preview of the Insurance Management System" />
+<h3>Insurance Management System</h3>
+<p><strong>Policy and vehicle administration</strong>  
+Manages vehicle and life policies, client records, claims workflows, and separate agent and client access.</p>
+<p><sub>PHP · SQL · React · JavaScript</sub></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/HVUPEnrnNREOmydD.jpg" width="100%" alt="Concept preview of the Online Exam Portal" />
+<h3>Online Exam Portal</h3>
+<p><strong>Online assessment platform</strong>  
+Timed tests with randomized question banks, automatic grading, and performance analytics.</p>
+<p><sub>PHP · SQL · React · JavaScript</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/EprAXiDSlrNcibpb.jpg" width="100%" alt="Concept preview of the Restaurant Management system" />
+<h3>Restaurant Management</h3>
+<p><strong>Ordering and reservations</strong>  
+Digital menu, table reservations, order management, and order-status tracking.</p>
+<p><sub>PHP · SQL · React · JavaScript</sub></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/tJiKsjeXIycViNTr.jpg" width="100%" alt="Concept preview of the E-Commerce Platform" />
+<h3>E-Commerce Platform</h3>
+<p><strong>Modern retail web application</strong>  
+Product catalog and filters, shopping cart, checkout, authentication, and inventory/order management.</p>
+<p><sub>Next.js · React · Node.js · MongoDB · Tailwind CSS</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/llMpQAncWuMMlTLt.jpg" width="100%" alt="Concept preview of the React UI Components Library" />
+<h3>React UI Components Library</h3>
+<p><strong>Reusable interface system</strong>  
+Accessible, themeable components designed to support consistent and faster frontend development.</p>
+<p><sub>React · JavaScript · Shadcn · Tailwind CSS</sub></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/xmnHnpGCVqtqGoaE.jpg" width="100%" alt="Concept preview of the Chat Application" />
+<h3>Chat Application</h3>
+<p><strong>Real-time messaging platform</strong>  
+Instant messaging with typing indicators, authentication, group channels, and message history.</p>
+<p><sub>Java · Spring Boot · React · Firebase</sub></p>
+</td>
+</tr>
+</table>
 
-- **Insurance Management System** — Vehicle and policy administration, client records, claims workflows, and separate agent/client access. *(PHP, SQL, React)*
-
-- **Online Exam Portal** — Timed assessments, randomized questions, automatic grading, and performance analytics. *(PHP, SQL, React)*
-
-- **Restaurant Management** — Digital menu, table reservations, order management, and status tracking. *(PHP, SQL, React)*
-
-- **E-Commerce Platform** — Product catalog, cart, checkout, authentication, and inventory/order dashboard. *(Next.js, React, Node.js, MongoDB)*
-
-- **React UI Components Library** — Reusable, themeable components designed for accessible and rapid interface development. *(React, Shadcn, Tailwind CSS)*
-
-- **Chat Application** — Real-time messaging, typing indicators, authentication, group channels, and message history. *(Java, Spring Boot, React, Firebase)*
-
-</details>
-
-> Add direct repository URLs to the project titles once you’ve confirmed each URL; the design’s repository buttons pointed to the profile page rather than individual project repositories.
+> Add direct repository URLs to the project titles once you’ve confirmed each URL. The design’s repository buttons pointed to the profile page rather than individual project repositories.
 
 ---
 
@@ -130,21 +163,80 @@ Currently pursuing postgraduate studies in computer applications.
 
 ## Certifications & Learning
 
-- **Innovating with Google Cloud AI** — Simplilearn · ID: 10644692
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI" />  
+  
 
-- **Prompt Engineering with GitHub Copilot** — Simplilearn · ID: 10644469
+<strong>Innovating with Google Cloud AI</strong>  
 
-- **Introduction to Cloud Computing** — Simplilearn · ID: 10616306
+<sub>Simplilearn · ID: 10644692</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />  
+  
 
-- **Cloud Computing & Model Development** — Swap Tech Infra · ID: 862221877
+<strong>Prompt Engineering with GitHub Copilot</strong>  
 
-- **Full Stack Java Developer** — Symbiosis & Capgemini
+<sub>Simplilearn · ID: 10644469</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/CLOUD_COMPUTING-2673B8?style=for-the-badge" alt="Cloud Computing" />  
+  
 
-- **Java (Basic)** — HackerRank · ID: 52FEED30DB53
+<strong>Introduction to Cloud Computing</strong>  
 
-- **AI and Employability Skills** — Magic Bus India (Infosys)
+<sub>Simplilearn · ID: 10616306</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/CLOUD_%26_MODEL_DEVELOPMENT-32835C?style=for-the-badge" alt="Cloud and Model Development" />  
+  
 
-**In progress:** AWS Developer Associate preparation · Advanced system design
+<strong>Cloud Computing &amp; Model Development</strong>  
+
+<sub>Swap Tech Infra · ID: 862221877</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/FULL_STACK_JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Full Stack Java" />  
+  
+
+<strong>Full Stack Java Developer</strong>  
+
+<sub>Symbiosis &amp; Capgemini</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/JAVA_BASIC-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Basic" />  
+  
+
+<strong>Java (Basic)</strong>  
+
+<sub>HackerRank · ID: 52FEED30DB53</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/AI_%26_EMPLOYABILITY-8E75B2?style=for-the-badge" alt="AI and Employability Skills" />  
+  
+
+<strong>AI and Employability Skills</strong>  
+
+<sub>Magic Bus India (Infosys)</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/IN_PROGRESS-287D68?style=for-the-badge" alt="Learning in progress" />  
+  
+
+<strong>Current Learning</strong>  
+
+<sub>AWS Developer Associate preparation · Advanced system design</sub>
+</td>
+</tr>
+</table>
 
 ---
 

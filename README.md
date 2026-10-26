@@ -1,288 +1,167 @@
-<div align="center"> 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141A,45:17243A,100:0B7185&height=210&section=header&text=Aniket%20Jadhav&fontSize=44&fontColor=F4F7FF&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT%20%7C%20REACT&descAlignY=60&descSize=15" width="100%" alt="Aniket Jadhav — Full-Stack Developer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Aniket%20Jadhav&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20MERN&descAlignY=55&descSize=18" width="100%"/>
+### Full-Stack Developer · Java & Spring Boot · React & Node.js
 
-</div>
+**Building practical web applications, APIs, and AI-enabled tools.**
 
-<h3 align="center" style="font-family: 'Inter', 'Segoe UI', -apple-system, Roboto, sans-serif; font-weight: 600;">🚀 Full-Stack Developer | React • Node.js • MongoDB • PHP • SQL • Java • Spring Boot</h3>
+Pune, India · Open to full-stack, Java, and React developer roles
 
-<p align="center">
-  <a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Aniketjadhav92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://aniketjadhav92.github.io/Aniket--portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-
-<div style="font-family: 'Inter', 'Segoe UI', -apple-system, Roboto, sans-serif;">
-
-👨‍💻 About Me
-- 🎓 Pursuing Master of Computer Applications (MCA) at Bharati Vidyapeeth (IMED), Pune
-- 💼 Full-Stack Developer with experience in Java, Spring Boot, React.js, Next.js, Node.js & MongoDB
-- 🤖 Passionate about building AI-integrated web applications & automated systems
-- 🌱 Currently deepening skills in Microservices, Cloud Architecture & DevOps
-- 🎯 Actively seeking Full-Stack / Java / React Developer roles
-- 📍 Based in Pune, India — open to on-site & hybrid opportunities
-- 💬 Ask me about Java, Spring Boot, React, Next.js, MongoDB, REST APIs
-
-🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,express,mongodb,mysql,php,git,postman,tailwind,html,css" />
-</p>
-
-
-🚀 Featured & Key Projects
-Project technology overview: React, Node.js and MongoDB for Form Craft, the React UI Components Library, and InternHub; React, PHP and SQL for the Insurance Management System, Online Exam Portal, and Restaurant Management; React and Node.js for Excel Analytics and Civic-One; and Java, Spring Boot, and React for DevHub and the Chat Application.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-🎓 InternHub
-AI-Powered Internship Management System
-- 🔐 Role-based auth (Admin / Intern) via JWT
-- 🤖 Google Gemini AI Chatbot & automated content generation
-- 🎥 Real-time video conferencing via Jitsi Meet API
-- 📊 Attendance tracking, task management & reporting
-  <br>
-  React • Node.js • Express.js • MongoDB • Tailwind CSS • Gemini AI
-View Code • Live Demo
-</td>
-<td width="50%" valign="top">
-
-🐙 DevHub
-GitHub Clone Platform
-- 📁 Repository management with full CRUD operations
-- 🔒 Secure JWT authentication & protected routes
-- 👤 User profile handling & issue tracking workflows
-- 📱 Responsive developer dashboard
-  <br>
-  Java • Spring Boot • React • SQL • REST APIs
-View Code • Live Demo
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🚗 Insurance Management System
-Vehicle & Policy Administration Platform
-- 📄 Comprehensive management of vehicle and life policies
-- 💼 Client record tracking & automated claims processing
-- 🔐 Dual agent and client portal access control
-  <br>
-  PHP • SQL • React • JavaScript • HTML5 • CSS3
-View Code
-</td>
-<td width="50%" valign="top">
-
-🚍 Parivahan Portal
-Transport & Vehicle Management System
-- 🚘 Vehicle registrations & permit applications portal
-- 💳 Driver record management & tax payment tracking
-- ⚡ High-performance backend built on Spring Boot
-  <br>
-  Java • Spring Boot • React • MySQL • Tailwind
-View Code
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🍽️ Restaurant Management
-Ordering & Reservation System
-- 📖 Digital menu interface with interactive filtering
-- 📅 Table reservation booking & order management
-- ⏱️ Real-time status tracking for customer orders
-  <br>
-  PHP • SQL • React • JavaScript • CSS3
-View Code
-</td>
-<td width="50%" valign="top">
-
-📝 Online Exam Portal
-Examination & Assessment Engine
-- ⏱️ Timed online testing with randomized question banks
-- 📊 Automatic grading & instant performance analytics
-- 🛡️ Secure student session handling via JWT
-  <br>
-  PHP • SQL • React • JavaScript • HTML5 • CSS3
-View Code
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🛒 E-Commerce Platform
-Modern Retail Web Application
-- 🛍️ Product catalog filtering & shopping cart state
-- 💳 Checkout integration & user authentication
-- 📈 Admin dashboard for inventory & order tracking
-  <br>
-  Next.js • React • Node.js • MongoDB • Tailwind
-View Code
-</td>
-<td width="50%" valign="top">
-
-🎨 UI Components Library
-Reusable React System
-- 🧩 Accessible, themeable UI components
-- 🚀 Designed for rapid frontend development
-- ⚡ Custom styling powered by Shadcn & Tailwind
-  <br>
-  React • JavaScript • Reusable Components • UI Design • Tailwind CSS
-View Code
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-📝 Form Craft
-AI-Powered Form Builder
-- 🛠️ Drag-and-drop dynamic form creator
-- 📊 Real-time response analytics and validation
-- 🤖 Smart field suggestions & instant sharing
-  <br>
-  React • Node.js • MongoDB • Express.js • Tailwind CSS
-View Code
-</td>
-<td width="50%" valign="top">
-
-📊 Excel Analytics Tool
-Spreadsheet Data Analysis Platform
-- 📈 Processing, filtering & interpreting data files
-- 📊 Interactive graph generation & visual export
-- 🐍 Powered by Python data-science stack
-  <br>
-  React • Node.js • JavaScript • Excel Data Processing
-View Code
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🏛️ Civic-One
-Civic Issue Reporting Platform
-- 📢 Citizen portal to report municipal issues
-- 📍 Progress tracking & community fix updates
-- 👥 Transparent local administration communication
-  <br>
-  React • Node.js • MongoDB • Express.js • JavaScript
-View Code
-</td>
-<td width="50%" valign="top">
-
-💬 Chat Application
-Real-Time Messaging Platform
-- ⚡ Instant messaging with active typing indicators
-- 🔒 Secure authentication & group channels
-- 💾 Message history powered by Firebase
-  <br>
-  Java • Spring Boot • React • SQL • REST APIs
-View Code
-</td>
-</tr>
-</table>
-
-
-🏆 Certifications & Achievements
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br><br>
-<b>Innovating with Google Cloud AI</b><br>
-<sub>Simplilearn • ID: 10644692</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/><br><br>
-<b>Prompt Engineering with GitHub Copilot</b><br>
-<sub>Simplilearn • ID: 10644469</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Cloud_Computing-0073BB?style=for-the-badge&logo=googlecloud&logoColor=white"/><br><br>
-<b>Introduction to Cloud Computing</b><br>
-<sub>Simplilearn • ID: 10616306</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Cloud_%26_Models-339933?style=for-the-badge&logo=icloud&logoColor=white"/><br><br>
-<b>Cloud Computing & Model Dev</b><br>
-<sub>Swap Tech Infra • ID: 862221877</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Full_Stack_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br><br>
-<b>Full Stack Java Developer</b><br>
-<sub>Symbiosis & Capgemini</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br><br>
-<b>Java (Basic) Certificate</b><br>
-<sub>HackerRank • ID: 52FEED30DB53</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-AI_%26_Skills-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/><br><br>
-<b>AI and Employability Skills</b><br>
-<sub>Magic Bus India (Infosys)</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-AWS_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
-<b>AWS Developer Associate</b><br>
-<sub><i>Target Completion Ongoing</i></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-System_Design-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/><br><br>
-<b>Advanced System Design</b><br>
-<sub><i>Target Completion Ongoing</i></sub>
-</td>
-</tr>
-</table>
-
-
-💼 Experience
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-Full Stack Developer Trainee
-LoyaNox Development
-
-Built full-stack applications using Next.js, React.js, Node.js & MongoDB; implemented JWT authentication and AI integration in real-world projects. Strengthened skills in database management, responsive UI, testing, and debugging.
-</td>
-<td width="50%" valign="top">
-
-
-Java Full Stack Intern
-Zidio Development
-
-Developed full-stack web applications using Java, Spring Boot & JPA/Hibernate; built RESTful APIs while collaborating in Agile teams using Git.
-</td>
-</tr>
-</table>
-
-
-📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketjadhav92&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-
-📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Aniketjadhav92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="tel:9325701182"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>🎯 Open to Full-Stack, Java, and React Developer roles — Pune (On-site / Hybrid)</i></p>
+<a href="https://github.com/Aniketjadhav92"><img src="https://img.shields.io/badge/GitHub-10141A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://aniketjadhav92.github.io/Aniket--portfolio/"><img src="https://img.shields.io/badge/Portfolio-245B73?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+---
+
+## Developer Overview
+
+<table align="center">
+<tr>
+<td align="center"><strong>12</strong>  
+<sub>Projects listed</sub></td>
+<td align="center"><strong>7</strong>  
+<sub>Completed credentials</sub></td>
+<td align="center"><strong>MCA</strong>  
+<sub>Postgraduate studies</sub></td>
+</tr>
+</table>
+
+I’m pursuing a **Master of Computer Applications (MCA)** at **Bharati Vidyapeeth (IMED), Pune**. I work across Java/Spring Boot and the React/Node.js ecosystem, and I’m especially interested in building useful full-stack products and AI-integrated applications.
+
+**Currently learning:** Microservices · Cloud architecture · DevOps
+
+## Technical Stack
+
+**Frontend**
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+
+**Backend & APIs**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-222222?style=flat&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/REST_APIs-245B73?style=flat" alt="REST APIs" />
+
+**Data & Tools**
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL-4169E1?style=flat" alt="SQL" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+
+---
+
+## Selected Projects
+
+<p align="center"><sub>Image previews are illustrative concepts for the project cards, not screenshots of the live applications.</sub></p> <table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/dKIyjQfAJFKTWRXS.jpg" width="100%" alt="Concept preview of the InternHub internship management dashboard" />
+<h3>InternHub</h3>
+<p><strong>AI-powered internship management</strong>  
+Role-based intern and admin workflows with task and attendance tracking, reporting, AI-assisted content, and video conferencing.</p>
+<p><sub>React · Node.js · Express · MongoDB · Gemini AI · Jitsi Meet</sub></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/VcYTPMMqHNYxVQBR.jpg" width="100%" alt="Concept preview of the DevHub developer platform" />
+<h3>DevHub</h3>
+<p><strong>GitHub-inspired developer platform</strong>  
+A developer dashboard for repository management, JWT authentication, profile handling, and issue-tracking workflows.</p>
+<p><sub>Java · Spring Boot · React · SQL · REST APIs</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/PjVbKAquxQBqiPCL.jpg" width="100%" alt="Concept preview of the Form Craft form builder" />
+<h3>Form Craft</h3>
+<p><strong>AI-assisted form builder</strong>  
+A drag-and-drop form creator with validation, response analytics, sharing, and smart field suggestions.</p>
+<p><sub>React · Node.js · Express · MongoDB · Tailwind CSS</sub></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/tHWBztNaEWtEYEJE.jpg" width="100%" alt="Concept preview of the Parivahan transport management portal" />
+<h3>Parivahan Portal</h3>
+<p><strong>Transport and vehicle management</strong>  
+A portal for vehicle registration, permit applications, driver records, and tax tracking.</p>
+<p><sub>Java · Spring Boot · React · MySQL · Tailwind CSS</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/nnPnYcnJAhmvokMa.jpg" width="100%" alt="Concept preview of the Excel Analytics dashboard" />
+<h3>Excel Analytics Tool</h3>
+<p><strong>Spreadsheet data analysis</strong>  
+Processes and filters spreadsheet data, with interactive visualizations and export options.</p>
+<p><sub>React · Node.js · JavaScript · Excel data processing</sub></p>
+</td>
+<td width="50%" valign="top">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664022831439/kyywvqDmISnvZsQc.jpg" width="100%" alt="Concept preview of the Civic-One issue reporting dashboard" />
+<h3>Civic-One</h3>
+<p><strong>Civic issue reporting</strong>  
+A citizen-focused platform for reporting municipal issues and following progress updates.</p>
+<p><sub>React · Node.js · Express · MongoDB</sub></p>
+</td>
+</tr>
+</table> <details>
+<summary><strong>More projects</strong></summary>
+
+- **Insurance Management System** — Vehicle and policy administration, client records, claims workflows, and separate agent/client access. *(PHP, SQL, React)*
+
+- **Online Exam Portal** — Timed assessments, randomized questions, automatic grading, and performance analytics. *(PHP, SQL, React)*
+
+- **Restaurant Management** — Digital menu, table reservations, order management, and status tracking. *(PHP, SQL, React)*
+
+- **E-Commerce Platform** — Product catalog, cart, checkout, authentication, and inventory/order dashboard. *(Next.js, React, Node.js, MongoDB)*
+
+- **React UI Components Library** — Reusable, themeable components designed for accessible and rapid interface development. *(React, Shadcn, Tailwind CSS)*
+
+- **Chat Application** — Real-time messaging, typing indicators, authentication, group channels, and message history. *(Java, Spring Boot, React, Firebase)*
+
+</details>
+
+> Add direct repository URLs to the project titles once you’ve confirmed each URL; the design’s repository buttons pointed to the profile page rather than individual project repositories.
+
+---
+
+## Experience & Education
+
+**Full Stack Developer Trainee · LoyaNox Development**
+Built full-stack applications with Next.js, React, Node.js, and MongoDB. Worked on JWT authentication and AI integrations while developing skills in database management, responsive interfaces, testing, and debugging.
+
+**Java Full Stack Intern · Zidio Development**
+Developed web applications using Java, Spring Boot, and JPA/Hibernate; built REST APIs and collaborated with Agile teams using Git.
+
+**Master of Computer Applications (MCA) · Bharati Vidyapeeth (IMED), Pune**
+Currently pursuing postgraduate studies in computer applications.
+
+## Certifications & Learning
+
+- **Innovating with Google Cloud AI** — Simplilearn · ID: 10644692
+
+- **Prompt Engineering with GitHub Copilot** — Simplilearn · ID: 10644469
+
+- **Introduction to Cloud Computing** — Simplilearn · ID: 10616306
+
+- **Cloud Computing & Model Development** — Swap Tech Infra · ID: 862221877
+
+- **Full Stack Java Developer** — Symbiosis & Capgemini
+
+- **Java (Basic)** — HackerRank · ID: 52FEED30DB53
+
+- **AI and Employability Skills** — Magic Bus India (Infosys)
+
+**In progress:** AWS Developer Associate preparation · Advanced system design
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Aniketjadhav92&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics for Aniketjadhav92" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aniketjadhav92&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used programming languages" />
+</p> <div align="center">
+
+### Let’s Build Something Great Together
+
+Open to full-stack, Java, and React developer opportunities in Pune.
+
+<a href="mailto:aniketjadhav2492@gmail.com"><img src="https://img.shields.io/badge/Contact_by_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+<a href="https://linkedin.com/in/aniket-jadhav92"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<sub>Designed with care · Pune, India</sub>
+
+</div>
